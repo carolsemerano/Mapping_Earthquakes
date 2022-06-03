@@ -2,7 +2,7 @@
 
 ## Overview
 
-This analysis aims to present data from Earthquakes using Javascript, GeoJSON, and Leaflet.
+This analysis aims to present data from Earthquakes using Javascript, GeoJSON, and Leaflet. The final result can be found on the folder [Earthquake_Challenge](Earthquake_Challenge/).
 
 ## Summary
 
